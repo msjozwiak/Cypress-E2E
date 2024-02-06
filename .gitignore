@@ -1,0 +1,15 @@
+node_modules/
+*.env
+*.env.local
+cypress/screenshots/
+cypress/videos/
+cypress/fixtures
+*.log
+*.tmp
+*.temp
+.idea/
+.vscode/
+build/
+dist
+.DS_Store
+Thumbs.db
