@@ -1,6 +1,6 @@
 class LoginPage {
     navigate() {
-      cy.visit('https://sentione.com/app/login');
+      cy.visit('');
     }
   
     enterEmail(email) {
